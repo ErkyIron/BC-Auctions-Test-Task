@@ -1,0 +1,15 @@
+{
+    "name": "sma ruleset",
+    "rules": [       
+        {                    
+            "id": "AS0051",
+            "action": "Hidden",
+            "justification": "Not needed since app is customer development. Fine to have range [50000..]"
+        },
+        {                    
+            "id": "AS0084",
+            "action": "Hidden",
+            "justification": "Not needed since app is customer development. Fine to have range [50000..]"
+        }
+    ]
+}

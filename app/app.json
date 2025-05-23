@@ -1,0 +1,32 @@
+{
+  "id": "8d906753-197b-496d-8ec7-4858f61b3e29",
+  "name": "API Auctions Info",
+  "publisher": "Default Publisher",
+  "version": "1.0.0.0",
+  "brief": "Contains the API to receive the auction information from external service.",
+  "description": "Contains the API integration to receive the auction information from external service and save it in business central.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "https://learn.microsoft.com/en-us/dynamics365/business-central/",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "26.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50019
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "15.0",
+  "features": [
+    "TranslationFile"
+  ]
+}

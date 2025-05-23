@@ -1,0 +1,8 @@
+*/.snapshots
+**/.alpackages/*
+**/rad.json
+**/*.g.xlf
+**/launch.json
+**/.alcache./*
+/**/.vscode/.alcache
+/**/.vscode/.altemplates
