@@ -23,6 +23,7 @@ The app "API Auctions Info" has the following limitations:
 - Does not include advanced error handling or retry logic for failed API requests.
 - User authentication and authorization for API access must be managed externally. Currently None authorization is used.
 - Limited to the auction data fields currently mapped; additional fields require code changes.
+- Requires some additional translations to cs-CZ.
 
 # User interfase
 The app provides custom page within Microsoft Dynamics 365 Business Central where users can view, manage, and edit auction information. The page name is "Auction Info List" and it can be found from search panel.

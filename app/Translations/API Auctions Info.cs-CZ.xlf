@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="cs-CZ" original="API Auctions Info">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3358460216 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Auction Info</source>
+          <target state="translated">Informace o dražby</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PTE Auction Info - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3358460216 - Field 375288768 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Auction No.</source>
+          <target state="translated">Číslo dražby</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PTE Auction Info - Field Auction No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3358460216 - Field 1943462940 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Auction Url</source>
+          <target state="translated">Dražby Url</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PTE Auction Info - Field Auction Url - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3358460216 - Field 2540837938 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contact Info</source>
+          <target state="translated">Kontaktni osoba</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PTE Auction Info - Field Contact Info - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3358460216 - Field 3962283273 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Internal Note</source>
+          <target state="translated">Interní poznámka</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PTE Auction Info - Field Internal Note - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3358460216 - Field 2415959464 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Negotiation No.</source>
+          <target state="translated">Čislo Jednaci</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PTE Auction Info - Field Negotiation No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3199574537 - NamedType 2641221461" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job Queue Entry created</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PTE API Integration Mgt. - NamedType JobQueueEntryCreatedMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3199574537 - NamedType 1334027089" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Request failed with status code: %1</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2">%1 - error code</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PTE API Integration Mgt. - NamedType RequestFailedErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3199574537 - NamedType 3464453232" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Response is imposible to read</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PTE API Integration Mgt. - NamedType ResponseReadErr</note>
+        </trans-unit>
+        <trans-unit id="Page 449444138 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Auction Info List</source>
+          <target state="translated">Dražby</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTE Auction Info List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 449444138 - NamedType 2644693080" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Background update of the records is finished. Start %1 and finish %2 time of the update.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2">%1 - start time, %2 - finish time</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTE Auction Info List - NamedType BackgroundUpdateFinishedMsg</note>
+        </trans-unit>
+        <trans-unit id="Page 449444138 - NamedType 2954262042" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Background update of the records is triggered.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTE Auction Info List - NamedType BackgroundUpdateMsg</note>
+        </trans-unit>
+        <trans-unit id="Page 449444138 - Control 375288768 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Auction No. field.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTE Auction Info List - Control Auction No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 449444138 - Control 1943462940 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Auction Url field.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTE Auction Info List - Control Auction Url - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 449444138 - Control 2540837938 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Contact Info field.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTE Auction Info List - Control Contact Info - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 449444138 - Control 3962283273 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Internal Note field.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTE Auction Info List - Control Internal Note - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 449444138 - Control 2415959464 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Negotiation No. field.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTE Auction Info List - Control Negotiation No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 449444138 - Action 2576044675 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> Action will create default update job queue entry.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTE Auction Info List - Action CreateDefaultUpdateJob - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 449444138 - Action 2576044675 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Default Update Job</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTE Auction Info List - Action CreateDefaultUpdateJob - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 449444138 - Action 102164924 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Action will load Info from extenal API.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTE Auction Info List - Action LoadInfo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 449444138 - Action 102164924 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Load Info from API</source>
+          <target state="translated">Načtení informací z API</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTE Auction Info List - Action LoadInfo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 449444138 - Action 1119664570 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> Action will show default update job queue entry.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTE Auction Info List - Action ShowDefaultUpdateJob - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 449444138 - Action 1119664570 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Default Update Job</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTE Auction Info List - Action ShowDefaultUpdateJob - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
