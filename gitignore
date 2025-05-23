@@ -1,7 +1,6 @@
 */.snapshots
 **/.alpackages/*
 **/rad.json
-**/*.app
 **/*.g.xlf
 **/launch.json
 **/.alcache./*
