@@ -7,6 +7,11 @@ To be able to test the app you will need to install the app into the BC environm
 
 You will need to open the power shell in administration mode and run the script CreateDockerW1.ps1 to be ablle to create new container.
 
+To be able to install the app into the Docker you need to reproduce next steps:
+0. Optional. Download symbols from BC. Compile the app.
+1. Take the app file and place it in some location (folder).
+2. Run the powershell script (with adjustments to your container name, file path, etc.) to install app to the BC. Poser shell script named InstallAppsToDocker.ps1 and located in scripts folder.
+
 # App "API Auctions Info" facilities
 The "API Auctions Info" app provides integration with an external Auctions Information API for Microsoft Dynamics 365 Business Central (version 26.0). 
 Its main facilities include:
