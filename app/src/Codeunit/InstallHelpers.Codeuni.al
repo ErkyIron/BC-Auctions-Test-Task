@@ -12,6 +12,6 @@ codeunit 50002 "PTE Install Helpers"
     var
         APIIntegrationMgt: Codeunit "PTE API Integration Mgt.";
     begin
-        APIIntegrationMgt.CreateDefaulJobQueueEntry();
+        APIIntegrationMgt.CreateDefaultJobQueueEntry();
     end;
 }

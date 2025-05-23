@@ -59,7 +59,7 @@ page 50000 "PTE Auction Info List"
                 var
                     APIIntegrationMgt: Codeunit "PTE API Integration Mgt.";
                 begin
-                    APIIntegrationMgt.CreateDefaulJobQueueEntry();
+                    APIIntegrationMgt.CreateDefaultJobQueueEntry();
                 end;
             }
             action(ShowDefaultUpdateJob)

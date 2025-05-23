@@ -16,7 +16,7 @@ codeunit 50000 "PTE API Integration Mgt."
         ParseResponse(ResponseText);
     end;
 
-    procedure CreateDefaulJobQueueEntry()
+    procedure CreateDefaultJobQueueEntry()
     var
         JobQueueEntry: Record "Job Queue Entry";
     begin
